@@ -1,0 +1,43 @@
+.rewardpoints-checkout-form {
+    margin-bottom: 20px;
+}
+
+.rewardpoints-checkout-form #reward_points {
+    width: 50%;
+ }
+
+.woocommerce .woocommerce-cart-form button[name=j2t_points_apply], .woocommerce .woocommerce-cart-form button[name=j2t_points_remove] {
+    padding: .5rem;
+    padding-top: 0.5rem;
+    padding-right: 0.5rem;
+    padding-bottom: 0.5rem;
+    padding-left: 0.5rem;
+    color: var(--global--color-primary);
+    background: var(--global--color-background);
+    border: var(--form--border-width) solid var(--global--color-primary);
+}
+
+.shop_table_responsive #reward_points {
+    min-width: 9rem;
+}
+
+.login-reward-sentence {
+    padding: 10px;
+}
+
+.available-point-scheme {
+    padding-bottom: 20px;
+}
+
+.point-description {
+    font-size: 12px;
+}
+
+.inline-rewardpoints_img img {
+    height: 24px !important;
+    width: auto !important;
+    max-width: 100% !important;
+    max-height: 100% !important;
+    vertical-align: sub !important;
+    margin-right: 5px;
+}
